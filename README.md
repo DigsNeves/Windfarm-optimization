@@ -25,4 +25,6 @@ NSGA-II (multi-objective selection)
 ## Takeaways
 
 ## Files
-[Windfarm examples](windfarm_examples.ipynb)
+
+- [windfarm.py](windfarm.py): definition of the class Windfarm for description, simulation, and visualization of wind farms.
+- [windfarm_examples.ipynb](windfarm_examples.ipynb): examples of usage of Windfarm class.
