@@ -28,5 +28,7 @@ NSGA-II (multi-objective selection)
 
 - [windfarm.py](windfarm.py): definition of the class Windfarm for description, simulation, and visualization of wind farms.
 - [windfarm_examples.ipynb](windfarm_examples.ipynb): examples of usage of Windfarm class.
+- [matrix_operators.py](matrix_operators.py): definition of matrix genetic operators.
+- [operators_examples.ipynb](operators_examples.ipynb): examples of usage of operators.
 
 [^1]: A. Emami and P. Noghreh, “New approach on optimization in placement of wind turbines within wind farm by genetic algorithms,” Renew. Energy, vol. 35, no. 7, pp. 1559–1564, 2010, doi: 10.1016/j.renene.2009.11.026.
